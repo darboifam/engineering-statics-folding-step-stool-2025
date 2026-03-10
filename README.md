@@ -68,7 +68,7 @@ Although the original assignment focused on small-space use, our final concept i
 - additional sketches, diagrams, or CAD images as needed
 
 ## Final Presentation
-[View the final presentation](./presentation/Statics%20Final%20Presentation.pdf)
+[View the final presentation](/darboifam/engineering-statics-folding-step-stool-2025/blob/main/presentation/Statics%20Final%20Presentation.pdf)
 
 ## Notes
 This repository is intended to document the final design process, engineering assumptions, and statics analysis for the folding step stool project.
