@@ -67,8 +67,11 @@ Although the original assignment focused on small-space use, our final concept i
 - `project-brief.pdf` – original assignment/project prompt
 - additional sketches, diagrams, or CAD images as needed
 
+## Files
+- `presentation/Statics Final Presentation.pdf` – final project presentation slides
+
 ## Final Presentation
-[View the final presentation](./final-presentation.pdf)
+[View the final presentation](./presentation/Statics%20Final%20Presentation.pdf)
 
 ## Notes
 This repository is intended to document the final design process, engineering assumptions, and statics analysis for the folding step stool project.
